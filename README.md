@@ -1,10 +1,10 @@
-# REACT Usestats() HOOK
+# Food Card Filtering
 
 In this project i worked with the Usestate hook in react
 
 where i build the feauture to filters out the top rating foods by using Usestate Hook
 
-#Usestate Hook
+# Usestate Hook
 
 usestate is a state variable
 
