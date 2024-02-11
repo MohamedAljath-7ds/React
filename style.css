@@ -1,0 +1,57 @@
+.head{
+    border: 1px solid red;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.btn{
+    margin: 10px;
+    
+}
+
+.body-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+
+.logo{
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+}
+
+.cards{
+    width: 220px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid red;
+    background-color: #f0f0f0;
+}
+
+
+h3{
+    display: flex;
+    justify-content: center;
+
+}
+
+.body-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.star{
+    width: 20px;
+    position: relative;
+    top: 40px;
+    left: 60px;
+}
+
